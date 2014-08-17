@@ -13,7 +13,7 @@ import static com.github.philanthropix.ipvalidator.IpUtil.convertCidrToLong;
 import static com.github.philanthropix.ipvalidator.IpUtil.ipV4AddressToLong;
 
 /**
- * User: keithbishop
+ * User: philanthopix
  * Date: 17/08/2014
  * Time: 18:00
  */
