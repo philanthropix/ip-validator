@@ -26,8 +26,8 @@ To use
 
 This library is very simple to use.
 
-# First create a JSON file with the CIDR addresses you want to whitelist or blacklist
-# Create an instance of the RuleTree class using the RuleTreeFactory class like so:
+1. First create a JSON file with the CIDR addresses you want to whitelist or blacklist
+2. Create an instance of the RuleTree class using the RuleTreeFactory class like so:
 ```java
 
 InputStream is; //get an input stream for the JSON config file you created 
@@ -36,7 +36,7 @@ RuleTree ruleTree = RuleTreeFactory.createRuleTree(is);
 
 ``` 
 
-# Validate IP addresses against the whitelist/blacklist
+3. Validate IP addresses against the whitelist/blacklist
 ```java
 if (ruleTree.validateIp("10.1.1.33")) {
 	//do some cool stuff
