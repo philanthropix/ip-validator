@@ -1,0 +1,59 @@
+{
+    "entries": [
+        {
+            "network": "0.0.0.0",
+            "cidr": 0,
+            "allowed": false
+        },
+        {
+            "network": "10.0.0.0",
+            "cidr": 8,
+            "allowed": true
+        },
+        {
+            "network": "10.253.0.0",
+            "cidr": 16,
+            "allowed": false
+        },
+        {
+            "network": "10.253.10.0",
+            "cidr": 24,
+            "allowed": true
+        },
+        {
+            "network": "10.127.0.0",
+            "cidr": 16,
+            "allowed": false
+        },
+        {
+            "network": "10.127.2.0",
+            "cidr": 24,
+            "allowed": true
+        },
+        {
+            "network": "10.127.3.0",
+            "cidr": 24,
+            "allowed": true
+        },
+        {
+            "network": "10.8.1.0",
+            "cidr": 24,
+            "allowed": false
+        },
+        {
+            "network": "252.18.0.0",
+            "cidr": 16,
+            "allowed": true
+        },
+        {
+            "network": "252.18.10.0",
+            "cidr": 24,
+            "allowed": false
+        },
+        {
+            "network": "11.192.253.0",
+            "cidr": 24,
+            "allowed": true
+        }
+    ]
+}
