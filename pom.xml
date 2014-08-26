@@ -6,7 +6,7 @@
     <artifactId>ip-validator</artifactId>
     <packaging>jar</packaging>
     <name>ip-validator</name>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/philanthropix/ip-validator.git</connection>
