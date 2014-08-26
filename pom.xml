@@ -10,8 +10,8 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:git://github.com/philanthropix/ip-validator</connection>
-        <developerConnection>scm:git:git://github.com/philanthropix/ip-validator</developerConnection>
+        <connection>scm:git:https://github.com/philanthropix/ip-validator.git</connection>
+        <developerConnection>scm:git:https://github.com/philanthropix/ip-validator.git</developerConnection>
         <url>https://github.com/philanthropix/ip-validator</url>
     </scm>
 
