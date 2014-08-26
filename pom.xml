@@ -6,13 +6,13 @@
     <artifactId>ip-validator</artifactId>
     <packaging>jar</packaging>
     <name>ip-validator</name>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/philanthropix/ip-validator.git</connection>
         <developerConnection>scm:git:https://github.com/philanthropix/ip-validator.git</developerConnection>
         <url>https://github.com/philanthropix/ip-validator</url>
-      <tag>ip-validator-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
