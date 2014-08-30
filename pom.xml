@@ -6,7 +6,7 @@
     <artifactId>ip-validator</artifactId>
     <packaging>jar</packaging>
     <name>ip-validator</name>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
 
     <description>A simple library for validating IP address ranges against a blacklist/whitelist</description>
     <licenses>
@@ -23,7 +23,7 @@
         <connection>scm:git:https://github.com/philanthropix/ip-validator.git</connection>
         <developerConnection>scm:git:https://github.com/philanthropix/ip-validator.git</developerConnection>
         <url>https://github.com/philanthropix/ip-validator</url>
-      <tag>HEAD</tag>
+      <tag>ip-validator-0.0.2</tag>
   </scm>
 
     <distributionManagement>
