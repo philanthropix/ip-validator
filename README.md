@@ -3,6 +3,21 @@ ip-validator
 
 A simple java library for Blacklisting / Whiltelisting IP addresses based upon a hierarchical JSON configuration
 
+Getting ip-validator
+====================
+
+The latest release of ip-validator is in maven central
+
+Adding to your pom.xml
+
+```xml
+<dependency>
+    <groupId>com.github.philanthropix</groupId>
+    <artifactId>ip-validator</artifactId>
+    <version>0.0.3</version>
+</dependency>
+```
+
 
 Building ip-validator
 =====================
